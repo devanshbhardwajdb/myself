@@ -7,11 +7,18 @@ export default {
   ],
   theme: {
     extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+      fontFamily: {
+        satoshi: ['Satoshi', 'sans-serif'],
+        poppins: ['Poppins', 'sans-serif'],
+        inter: ['Inter', 'sans-serif'],
+        playfair: ['Playfair Display', 'serif'],
+        livvic: ['Livvic', 'serif'],
+        teachers: ['Teachers', 'sans'],
       },
-    },
+      colors: {
+        'primary-orange': '#FF5722',
+      }
+    }
   },
   plugins: [],
 };
