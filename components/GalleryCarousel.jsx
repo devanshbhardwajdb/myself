@@ -41,7 +41,7 @@ const GalleryCarousel = () => {
             <SwiperReact {...params} className="flex justify-center items-center w-full h-full ">
                 {gallery.map((item) => (
                     <SwiperSlide key={item.id} className="flex flex-col items-center justify-center">
-                        <img src={item.photo} alt={item.heading} className="rounded-lg shadow-md max-h-[60vh] object-cover bg-green-400 object-center w-96 h-96" />
+                        <img src={item.photo} alt={item.heading} className="rounded-lg shadow-md max-h-[60vh] object-cover object-center w-96 h-96" />
                         <h1 className="text-xl text-center text-black font-semibold mt-2">{item.heading}</h1>
                     </SwiperSlide>
                 ))}

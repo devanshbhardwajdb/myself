@@ -8,7 +8,7 @@ export const metadata = {
   other:{
     
     "twitter:card" : "summary_large_image",
-    "og:url":"devanya-forever.vercel.app",
+    "og:url":"devanya-forever.netlify.app",
    
   }
 };
