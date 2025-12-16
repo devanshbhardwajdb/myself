@@ -19,4 +19,12 @@ export const gallery = [
     { id: 18, photo: "/18.jpg", heading: "Zoo mein Enjoy" },
     { id: 19, photo: "/19.jpg", heading: "My Farewell" },
     { id: 20, photo: "/20.jpg", heading: "One more cute pic" },
+    { id: 21, photo: "/21.jpg", heading: "Diwali Poojan of best couple" },
+    { id: 22, photo: "/22.jpg", heading: "Mera Bachpan ka photo" },
+    { id: 23, photo: "/23.jpg", heading: "Shreenu ka Bachpan ka photo" },
+    { id: 24, photo: "/24.png", heading: "Shreenu rangoli banate hue" },
+    { id: 25, photo: "/25.jpg", heading: "This pic is love 💋" },
+    { id: 26, photo: "/26.jpg", heading: "Animated Couple" },
+    { id: 27, photo: "/27.jpg", heading: "Future mein ye zaroor hoga" },
+
 ];
